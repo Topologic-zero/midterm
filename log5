@@ -1,0 +1,4 @@
+log5 
+
+
+In today’s lab, I explored how the client-server model and HTTP work at a low level using an ESP32 board. First, I learned how to flash MicroPython firmware onto the ESP32 and connect it to WiFi. The LEDs helped show power and WiFi status, which made debugging easier. Once connected, I wrote code to turn the ESP32 into a basic web server. When I visited the board’s IP address in a browser, it responded with an HTML page—this was exciting because it showed real-time HTTP request and response handling from a small embedded device. I now understand how a socket listens for requests and how a response is sent. It was rewarding to see hardware, code, and networking come together. I’m starting to see how IoT devices can interact with users or other systems through web-based interfaces.
