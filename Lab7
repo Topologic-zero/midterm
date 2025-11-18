@@ -1,0 +1,10 @@
+Reflection – Lab 7: Python IoT Controller / MQTT Home Automation
+In this lab, I learned how to make a small smart-home system using Python. I also learned about something called MQTT. MQTT is a way for devices to send messages to each other. One device can send a message, and another device can listen and do something when it gets that message.
+
+At first, it was a little confusing. I had to set up something called a broker. The broker is like a mailman who delivers messages between devices. Then I wrote Python code to send messages (publish) and to get messages (subscribe). When I finally saw the messages going back and forth, I felt proud. It helped me understand how real smart-home devices work.
+
+My favorite part was seeing the messages show up right away. It showed me that MQTT is fast and simple. Python also made the code easy to read.
+
+The hardest part was fixing mistakes. Sometimes nothing worked, and I didn’t know why. I had to check my topic names and make sure everything was connected. This taught me to be patient and to double-check my work.
+
+Overall, this lab taught me a lot about how devices can talk over the internet. It was fun to see how Python and MQTT can control things without wires. I think this will help me in future robotics and automation projects.
